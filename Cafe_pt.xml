@@ -1861,7 +1861,8 @@ Motivo {0}"  />
 				<text id="generic_report_muted_badword2_copy" name="Você está impedido de utilizar o bate-papo nas próximas {0} horas por comportamento proibido repetido. Motivo: {1}"  />
 				<text id="generic_report_muted_domain1" name="Não há endereços de internet no bate-papo!"  />
 				<text id="generic_report_muted_reported_copy" name="Vários jogadores queixaram-se sobre você. Você não poderá utilizar o bate-papo nas próximas {0} horas. Motivo {1}"  />
-				<text id="generic_report_player_copy" name="Você realmente quer reportar o jogador {0}?"  />
+				<text id="generic_report_player_copy" name="Você realmente quer reportar o jogador {0}?
+					 Atenção! O abuso desta função pode resultar no bloqueio da sua conta."  />
 				<text id="generic_report_player_reason_0" name="Ofensa"  />
 				<text id="generic_report_player_reason_1" name="Assédio sexual"  />
 				<text id="generic_report_player_reason_2" name="Opinião racista"  />
